@@ -1,0 +1,9 @@
+{
+    "name": "CalendarioEvea",
+    "env": {
+        "TELEGRAM_TOKEN": {
+            "description": "el token del bot de telegram que te da https://t.me/BotFather",
+            "value": "5389979475:AAFhxmJVSwt4dNJCBDl2fTZmwFz_3QjkdOI"
+        }
+    }
+}
