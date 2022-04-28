@@ -160,7 +160,7 @@ async def message_handler(client: Client, message: Message):
         async for member in group_members:
             if uid == member.user.id:
                 auth = True
-                url_list[uid] = {"proxy": "socks5://181.225.253.202:6050", "urls": []}
+                url_list[uid] = {"proxy": "socks5://181.225.253.188:2002", "urls": []}
         if auth == False:
             return
 
